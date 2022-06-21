@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <mysql.driver.verion>8.0.19</mysql.driver.verion>
+        <mysql.driver.verion>8.0.28</mysql.driver.verion>
     </properties>
 
     <dependencies>
